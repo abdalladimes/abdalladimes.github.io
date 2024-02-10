@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     document.addEventListener('scroll', (event) => {
         console.log(event);
+        console.log('scrolling');
     });
     setAllPoints();
     // for desc change
