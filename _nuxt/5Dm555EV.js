@@ -1,0 +1,1 @@
+import{_ as c,c as s,o as a,b as e,E as _,G as r,H as f}from"./D_Myowz2.js";const l={};function p(o,d){const n=r,t=f;return a(),s("div",null,[e(n),_(o.$slots,"default"),e(t)])}const i=c(l,[["render",p]]);export{i as default};
